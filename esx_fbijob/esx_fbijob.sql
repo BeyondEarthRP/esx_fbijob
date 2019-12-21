@@ -15,9 +15,9 @@ INSERT INTO `jobs` (name, label) VALUES
 ;
 
 INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_female) VALUES
-	('fbi',0,'recruit','Recruit',20,'{}','{}'),
-	('fbi',1,'officer','Officer',40,'{}','{}'),
-	('fbi',2,'sergeant','Sergeant',60,'{}','{}'),
-	('fbi',3,'lieutenant','Lieutenant',85,'{}','{}'),
-	('fbi',4,'boss','Commander',100,'{}','{}')
+	('fbi',0,'recruit','Agent Trainee',20,'{}','{}'),
+	('fbi',1,'officer','Special Agent',40,'{}','{}'),
+	('fbi',2,'sergeant','Chief of Staff',60,'{}','{}'),
+	('fbi',3,'lieutenant','Deputy Director',85,'{}','{}'),
+	('fbi',4,'boss','Director',100,'{}','{}')
 ;
