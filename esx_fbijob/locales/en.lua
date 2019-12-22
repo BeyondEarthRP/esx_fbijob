@@ -111,5 +111,5 @@ Locales['en'] = {
   ['map_blip'] = 'police Station',
   ['unrestrained_timer'] = 'you feel your handcuffs slowly losing grip and fading away.',
   -- Notifications
-  ['alert_police'] = 'alert police',
+  ['alert_fbi'] = 'alert police',
 }
